@@ -7,6 +7,13 @@ import { connectorPreview } from "./build/connector-preview-plugin.mjs";
 
 const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
   "00000000-0000-4000-8000-000000000000";
+const d1DatabaseId =
+  process.env.CLOUDFLARE_D1_DATABASE_ID?.trim() ||
+  hostingConfig.d1_database_id ||
+  SITE_CREATOR_PLACEHOLDER_DATABASE_ID;
+const hasRealD1DatabaseId =
+  /^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(d1DatabaseId) &&
+  d1DatabaseId !== SITE_CREATOR_PLACEHOLDER_DATABASE_ID;
 
 const { d1, r2 } = hostingConfig;
 
@@ -22,7 +29,8 @@ const localBindingConfig = {
         {
           binding: d1,
           database_name: "site-creator-d1",
-          database_id: SITE_CREATOR_PLACEHOLDER_DATABASE_ID,
+          database_id: d1DatabaseId,
+          migrations_dir: "../../drizzle",
         },
       ]
     : [],
@@ -37,6 +45,12 @@ const localBindingConfig = {
 };
 
 export default defineConfig(async ({ command }) => {
+  if (d1 && command === "build" && !hasRealD1DatabaseId) {
+    throw new Error(
+      "Cloudflare deploy requires a real d1_database_id in .openai/hosting.json; the local placeholder cannot be deployed.",
+    );
+  }
+
   // Use Miniflare's local Request.cf placeholder unless fetching is requested.
   process.env.CLOUDFLARE_CF_FETCH_ENABLED ??= "false";
   process.env.WRANGLER_SEND_METRICS ??= "false";

@@ -24,7 +24,9 @@ A aplicação exporta `handle(Request)` em lib/server.ts e as rotas usam um catc
 
 ## Hospedagem Cloudflare fora do Sites
 
-O código já usa Workers/D1/R2; criar recursos equivalentes e ajustar IDs reais no arquivo de deploy de seu próprio ambiente. `dist/server/wrangler.json` no ZIP conserva os placeholders do build, não os IDs de recursos de uma conta externa. Configurar o gateway de identidade antes de abrir qualquer rota administrativa.
+O UUID do D1 e os bindings do ambiente estão em `.openai/hosting.json`; o build usa esse UUID real e interrompe a publicação se detectar o placeholder local. No Cloudflare Workers Builds, use `pnpm run build` como build command e `pnpm run deploy` como deploy command. O script aplica, com o controle de migrações do Wrangler, apenas os arquivos pendentes de `drizzle/` ao D1 remoto antes de executar `wrangler deploy`. A primeira requisição inicializa a carga pública; não importe `database/studpb.sql` sobre esse banco.
+
+O UUID do D1 é específico desta conta e deve ser substituído ao implantar em outra conta. Em Workers Builds, previews ficam desativados até que exista um D1 de preview isolado. Configure e valide o gateway de identidade antes de abrir qualquer rota administrativa fora do Sites.
 
 O adapter atual lê identidade confiável fornecida pela plataforma Sites através de app/chatgpt-auth.ts. Fora dessa plataforma, substituir esse adapter por uma autenticação de servidor apropriada (sessão/Cloudflare Access validado no Worker). Nunca confiar em cabeçalhos oai-authenticated-user-* de clientes externos. Não há sessão própria com senha padrão para um servidor genérico.
 
