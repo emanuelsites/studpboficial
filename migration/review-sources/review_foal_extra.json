@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Senna Star PB",
+    "id": "wp-2784",
+    "checkedAt": "2026-10-19",
+    "status": "horsetelex_parents_verified_three_generations_fallback",
+    "checks": {
+      "Hippomundo": {
+        "url": "https://www.hippomundo.com/en/pedigree/performance/3614971-senna-star-pb_",
+        "query": "\"senna-star-pb\" site:hippomundo.com",
+        "status": "direct_unavailable_family_index_only"
+      },
+      "HorseTelex": {
+        "url": "https://www.horsetelex.com/horses/pedigree/2709604/senna-star-pb",
+        "query": "\"Senna Star PB\" domains horsetelex.com, hippomundo.com; site:horsetelex.com/horses/pedigree/2709604 \"QUICK STAR\"",
+        "status": "direct_open403_index_record_and_owner_profile_confirmed"
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/horses/pedigree/2709604/senna-star-pb",
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb"
+    ],
+    "verifiedFields": {
+      "father": "Big Star",
+      "mother": "Carthina Z",
+      "maternalGrandfather": "Carthago",
+      "year": "2025",
+      "sex": "Macho",
+      "studbook": "BH"
+    },
+    "fullThreeGenerationsVerified": false,
+    "pedigree": null,
+    "corrections": [
+      {
+        "field": "father",
+        "from": "Big Star Z",
+        "to": "Big Star",
+        "type": "different_registered_stallion_suffix"
+      }
+    ],
+    "supplementaryPending": {
+      "source": "https://abcch.com.br/animal/E9D2D0B1-D97E-4F8F-8717-2479824A46A0",
+      "birth": "02/07/2025",
+      "note": "Not in requested data hierarchy. Do not apply birth date automatically; pending confirmation. Registry full tree agrees BigStar×CarthinaZ, QuickStar/Jolanda and Carthago/TanagraS."
+    },
+    "oldStudPB": {
+      "url": "https://studpb.com.br/senna-star-pb/",
+      "snapshot": "migration/original-details/2784.html.txt"
+    }
+  },
+  {
+    "name": "Bellobet PB",
+    "id": "wp-2982",
+    "checkedAt": "2026-10-19",
+    "status": "horsetelex_parents_verified_three_generations_fallback",
+    "checks": {
+      "Hippomundo": {
+        "query": "\"BELLOBET PB\" site:hippomundo.com",
+        "status": "no_exact_match"
+      },
+      "HorseTelex": {
+        "url": "https://www.horsetelex.com/horses/pedigree/3083239/bellobet-pb",
+        "query": "\"Bellobet PB\" domains horsetelex.com,hippomundo.com; site:horsetelex.com/horses/pedigree/3083239 \"MESANGE\"",
+        "status": "direct_open403_index_record_and_owner_profile_confirmed"
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/horses/pedigree/3083239/bellobet-pb",
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb"
+    ],
+    "verifiedFields": {
+      "father": "Baloubet du Rouet",
+      "mother": "Cibelle vd Berghoeve Z",
+      "maternalGrandfather": "Chacco-Blue",
+      "year": "2026",
+      "sex": "Macho",
+      "studbook": "BH",
+      "registration": "076001000033015"
+    },
+    "fullThreeGenerationsVerified": false,
+    "pedigree": null,
+    "notes": [
+      "Targeted exact individual page search also shows Galoubet A, Alme, Viti, Mesange du Rouet. Full14-node tree not exposed, so do not claim full3gen verification."
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/bellobet-pb/",
+      "snapshot": "migration/original-details/2982.html.txt"
+    }
+  }
+]

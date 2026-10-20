@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "wp-1557",
+    "name": "Serendipity Di Villagana",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2023",
+      "sex": "female",
+      "father": "Eldorado van de Zeshoek TN",
+      "mother": "Fortune",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2023",
+      "father": "Eldorado van de Zeshoek TN",
+      "mother": "Fortune",
+      "maternalGrandfather": "Andiamo"
+    },
+    "pedigree": {
+      "name": "Serendipity Di Villagana",
+      "sex": "female",
+      "father": {
+        "name": "Eldorado van de Zeshoek TN",
+        "sex": "male",
+        "father": {
+          "name": "Clinton",
+          "sex": "male",
+          "father": {
+            "name": "Corrado I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Urte",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Bijou Orai",
+          "sex": "female",
+          "father": {
+            "name": "Toulon",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Ramourai",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Fortune",
+        "sex": "female",
+        "father": {
+          "name": "Andiamo",
+          "sex": "male",
+          "father": {
+            "name": "Animo",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Taj Mahal X",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Bellafleur",
+          "sex": "female",
+          "father": {
+            "name": "Omega",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Lideke",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://horsetelex.com/horses/pedigree/2635580/serendipity-di-villagana-pb",
+        "access": "public search-index facts; direct page403",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/serendipity-di-villagana/",
+        "role": "legacy comparison source, retained original source snapshots"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/horses/pedigree/1902894/go-ahead-dk-z",
+        "role": "same Fortune maternal branch full2generations"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/fr/pedigree/performance/1208885-ego-of-picobello-z",
+        "role": "Eldorado paternal branch two generations"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered"
+    },
+    "differences": [
+      {
+        "path": "father",
+        "old": "Eldorado Van de Zeshoek",
+        "verified": "Eldorado van de Zeshoek TN"
+      },
+      {
+        "path": "father.father",
+        "old": null,
+        "verified": "Clinton"
+      },
+      {
+        "path": "father.father.father",
+        "old": null,
+        "verified": "Corrado I"
+      },
+      {
+        "path": "father.father.mother",
+        "old": null,
+        "verified": "Urte"
+      },
+      {
+        "path": "father.mother",
+        "old": null,
+        "verified": "Bijou Orai"
+      },
+      {
+        "path": "father.mother.father",
+        "old": null,
+        "verified": "Toulon"
+      },
+      {
+        "path": "father.mother.mother",
+        "old": null,
+        "verified": "Ramourai"
+      },
+      {
+        "path": "mother",
+        "old": "Fortune X",
+        "verified": "Fortune"
+      },
+      {
+        "path": "mother.father",
+        "old": "Andiamo Z",
+        "verified": "Andiamo"
+      },
+      {
+        "path": "mother.father.father",
+        "old": null,
+        "verified": "Animo"
+      },
+      {
+        "path": "mother.father.mother",
+        "old": null,
+        "verified": "Taj Mahal X"
+      },
+      {
+        "path": "mother.mother",
+        "old": null,
+        "verified": "Bellafleur"
+      },
+      {
+        "path": "mother.mother.father",
+        "old": null,
+        "verified": "Omega"
+      },
+      {
+        "path": "mother.mother.mother",
+        "old": null,
+        "verified": "Lideke"
+      }
+    ],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  },
+  {
+    "id": "wp-1504",
+    "name": "Caramel 88 of Picobello",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2024",
+      "sex": "female",
+      "father": "Cumano",
+      "mother": "Al Ain FBH",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2024",
+      "father": "Cumano",
+      "mother": "Al Ain FBH",
+      "maternalGrandfather": "Contact van de Heffinck"
+    },
+    "pedigree": {
+      "name": "Caramel 88 of Picobello",
+      "sex": "female",
+      "father": {
+        "name": "Cumano",
+        "sex": "male",
+        "father": {
+          "name": "Cassini I",
+          "sex": "male",
+          "father": {
+            "name": "Capitol I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Wisma",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Chanell II",
+          "sex": "female",
+          "father": {
+            "name": "Landgraf I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Weisse Dame",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Al Ain FBH",
+        "sex": "female",
+        "father": {
+          "name": "Contact van de Heffinck",
+          "sex": "male",
+          "father": {
+            "name": "Concept",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "MS Franziska",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Only Picobello Z",
+          "sex": "female",
+          "father": {
+            "name": "Orlando",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Pleasure by Picobello",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://horsetelex.com/horses/pedigree/2666330/caramel-88-of-picobello-pb",
+        "access": "public search-index facts; direct page403",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/nl/pedigree/performance/734570-climax-of-picobello-z",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/pedigree/performance/1441026-como-ses-z",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/caramel-88-of-picobello/",
+        "role": "legacy comparison source, retained original source snapshots"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered; official relative/ancestor records corroborate relevant branches"
+    },
+    "differences": [
+      {
+        "path": "father.father",
+        "old": "Sandro Z",
+        "verified": "Cassini I"
+      },
+      {
+        "path": "father.father.father",
+        "old": "Sacramento Song",
+        "verified": "Capitol I"
+      },
+      {
+        "path": "father.father.mother",
+        "old": "Dürte",
+        "verified": "Wisma"
+      },
+      {
+        "path": "father.mother",
+        "old": "Antenne II",
+        "verified": "Chanell II"
+      },
+      {
+        "path": "father.mother.father",
+        "old": "Gepard",
+        "verified": "Landgraf I"
+      },
+      {
+        "path": "father.mother.mother",
+        "old": "Antenne",
+        "verified": "Weisse Dame"
+      },
+      {
+        "path": "mother.father",
+        "old": "Le Tot de Semilly",
+        "verified": "Contact van de Heffinck"
+      },
+      {
+        "path": "mother.father.father",
+        "old": "Grand Veneur",
+        "verified": "Concept"
+      },
+      {
+        "path": "mother.father.mother",
+        "old": "Venue du Tot",
+        "verified": "MS Franziska"
+      },
+      {
+        "path": "mother.mother",
+        "old": "Sophie du Chateau",
+        "verified": "Only Picobello Z"
+      },
+      {
+        "path": "mother.mother.father",
+        "old": "Galoubet A",
+        "verified": "Orlando"
+      },
+      {
+        "path": "mother.mother.mother",
+        "old": "Javotte D",
+        "verified": "Pleasure by Picobello"
+      }
+    ],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  },
+  {
+    "id": "wp-1466",
+    "name": "Quellanotte di Villagana",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2021",
+      "sex": "female",
+      "father": "Cornet Obolensky",
+      "mother": "Jewel van 't Heike",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2021",
+      "father": "Cornet Obolensky",
+      "mother": "Jewel van 't Heike",
+      "maternalGrandfather": "Nabab de Reve"
+    },
+    "pedigree": {
+      "name": "Quellanotte di Villagana",
+      "sex": "female",
+      "father": {
+        "name": "Cornet Obolensky",
+        "sex": "male",
+        "father": {
+          "name": "Clinton",
+          "sex": "male",
+          "father": {
+            "name": "Corrado I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Urte I",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Rabanna van Costersveld",
+          "sex": "female",
+          "father": {
+            "name": "Heartbreaker",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Holivea van Costersveld",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Jewel van 't Heike",
+        "sex": "female",
+        "father": {
+          "name": "Nabab de Reve",
+          "sex": "male",
+          "father": {
+            "name": "Quidam de Revel",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Melodie en Fa",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Quanina van 't Heike",
+          "sex": "female",
+          "father": {
+            "name": "Lys de Darmen",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Golympia",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/horses/pedigree/2661178/quellanotte-di-villagana-pb",
+        "access": "public search-index facts; direct page403",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/userlink/4194-stud-pb",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/pedigree/performance/388115-narcotique-tachor",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/pedigree/performance/722822-cosmo-de-la-vie",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/quellanotte-di-villagana/",
+        "role": "legacy comparison source, retained original source snapshots"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered; official relative/ancestor records corroborate relevant branches"
+    },
+    "differences": [
+      {
+        "path": "father.mother",
+        "old": "Rabanna Van Costerveld",
+        "verified": "Rabanna van Costersveld"
+      },
+      {
+        "path": "father.mother.mother",
+        "old": "Geração 03 - Fêmea 02",
+        "verified": "Holivea van Costersveld"
+      },
+      {
+        "path": "mother",
+        "old": "Jewel Van't Heike",
+        "verified": "Jewel van 't Heike"
+      },
+      {
+        "path": "mother.father.father",
+        "old": "Holivea Van Costersveld",
+        "verified": "Quidam de Revel"
+      },
+      {
+        "path": "mother.father.mother",
+        "old": "Quidam de Revel Melodie en Fan",
+        "verified": "Melodie en Fa"
+      },
+      {
+        "path": "mother.mother",
+        "old": "Quanina Van't Heike",
+        "verified": "Quanina van 't Heike"
+      }
+    ],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  },
+  {
+    "id": "wp-1129",
+    "name": "Eclypse des Forets",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2014",
+      "sex": "female",
+      "father": "President",
+      "mother": "Licorne des Forets",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2014",
+      "father": "President",
+      "mother": "Licorne des Forets",
+      "maternalGrandfather": "Voltaire"
+    },
+    "pedigree": {
+      "name": "Eclypse des Forets",
+      "sex": "female",
+      "father": {
+        "name": "President",
+        "sex": "male",
+        "father": {
+          "name": "Clinton",
+          "sex": "male",
+          "father": {
+            "name": "Corrado I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Urte",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Gudrun",
+          "sex": "female",
+          "father": {
+            "name": "Voltaire",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Adriana",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Licorne des Forets",
+        "sex": "female",
+        "father": {
+          "name": "Voltaire",
+          "sex": "male",
+          "father": {
+            "name": "Furioso II",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Gogo Moeve",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Gekas des Forets",
+          "sex": "female",
+          "father": {
+            "name": "Le Tot de Semilly",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Rapsodie II",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/horses/pedigree/1692659/eclypse-des-forets",
+        "access": "direct public page read",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/stud-pb-eclypse-des-forets/",
+        "role": "legacy comparison source, retained original source snapshots"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered"
+    },
+    "differences": [
+      {
+        "path": "father.father.mother",
+        "old": "Urte I",
+        "verified": "Urte"
+      },
+      {
+        "path": "father.mother",
+        "old": "Grudun",
+        "verified": "Gudrun"
+      },
+      {
+        "path": "mother.father.mother",
+        "old": "Gogo Möve",
+        "verified": "Gogo Moeve"
+      },
+      {
+        "path": "mother.mother.mother",
+        "old": "Rapsoide II",
+        "verified": "Rapsodie II"
+      }
+    ],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  },
+  {
+    "id": "wp-686",
+    "name": "Cibelle VD Berghoeve Z",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2021",
+      "sex": "female",
+      "father": "Chacco-Blue",
+      "mother": "Quasibelle du Seigneur",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2021",
+      "father": "Chacco-Blue",
+      "mother": "Quasibelle du Seigneur",
+      "maternalGrandfather": "Rubens du Ri d'Asse"
+    },
+    "pedigree": {
+      "name": "Cibelle VD Berghoeve Z",
+      "sex": "female",
+      "father": {
+        "name": "Chacco-Blue",
+        "sex": "male",
+        "father": {
+          "name": "Chambertin",
+          "sex": "male",
+          "father": {
+            "name": "Cambridge",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Desiree VII",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Contara",
+          "sex": "female",
+          "father": {
+            "name": "Contender",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Godahra II",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Quasibelle du Seigneur",
+        "sex": "female",
+        "father": {
+          "name": "Rubens du Ri d'Asse",
+          "sex": "male",
+          "father": {
+            "name": "Argentinus",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Kristalys du Ri d'Asse",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Ta Belle van Sombeke",
+          "sex": "female",
+          "father": {
+            "name": "Chin Chin",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "La Belle van Sombeke",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/horses/pedigree/2553758/cibelle-vd-berghoeve",
+        "access": "public search-index facts; direct page403",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/nl/pedigree/performance/1124423-toubelle-dv-z",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/pedigree/performance/532318-cibelle-du-seigneur",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/nome-do-animal-de-reproducao-03/",
+        "role": "legacy comparison source, retained original source snapshots"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered; official relative/ancestor records corroborate relevant branches"
+    },
+    "differences": [
+      {
+        "path": "father.mother",
+        "old": "MoM's Contara",
+        "verified": "Contara"
+      },
+      {
+        "path": "mother.mother.mother",
+        "old": "La Belle Van Sombeke",
+        "verified": "La Belle van Sombeke"
+      }
+    ],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  },
+  {
+    "id": "wp-676",
+    "name": "Dame Blanche of Picobello Z",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2022",
+      "sex": "female",
+      "father": "Diaron OLD",
+      "mother": "Picobello Mabella",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2022",
+      "father": "Diaron OLD",
+      "mother": "Picobello Mabella",
+      "maternalGrandfather": "Indoctro"
+    },
+    "pedigree": {
+      "name": "Dame Blanche of Picobello Z",
+      "sex": "female",
+      "father": {
+        "name": "Diaron OLD",
+        "sex": "male",
+        "father": {
+          "name": "Diarado",
+          "sex": "male",
+          "father": {
+            "name": "Diamant de Semilly",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Roxette I",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Lenda-Cara",
+          "sex": "female",
+          "father": {
+            "name": "Come On",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Lindauway",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Picobello Mabella",
+        "sex": "female",
+        "father": {
+          "name": "Indoctro",
+          "sex": "male",
+          "father": {
+            "name": "Capitol I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Vanessa VII",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Beach Quella",
+          "sex": "female",
+          "father": {
+            "name": "Baloubet du Rouet",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Quelle",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/horses/pedigree/2336080/dame-blanche-of-picobello-z",
+        "access": "public search-index facts; direct page403",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/pedigree/performance/1048284-comme-picobello-z",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/nome-do-animal-de-reproducao-01/",
+        "role": "legacy comparison source, retained original source snapshots"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered; official relative/ancestor records corroborate relevant branches"
+    },
+    "differences": [],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  },
+  {
+    "id": "wp-643",
+    "name": "Guinness de La Violle",
+    "reviewed_at": "2026-10-19",
+    "status": "verified-official-record-and-ancestry",
+    "identity_match": {
+      "year": "2016",
+      "sex": "female",
+      "father": "Canturo",
+      "mother": "Madam Ess",
+      "owner": "Stud PB"
+    },
+    "verified_fields": {
+      "year": "2016",
+      "father": "Canturo",
+      "mother": "Madam Ess",
+      "maternalGrandfather": "Quidam de Revel"
+    },
+    "pedigree": {
+      "name": "Guinness de La Violle",
+      "sex": "female",
+      "father": {
+        "name": "Canturo",
+        "sex": "male",
+        "father": {
+          "name": "Cantus",
+          "sex": "male",
+          "father": {
+            "name": "Caletto I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Monoline",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Fara",
+          "sex": "female",
+          "father": {
+            "name": "Calando I",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Ulara II",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Madam Ess",
+        "sex": "female",
+        "father": {
+          "name": "Quidam de Revel",
+          "sex": "male",
+          "father": {
+            "name": "Jalisco B",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Dirka",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Hella de Subrevil",
+          "sex": "female",
+          "father": {
+            "name": "Urleven Pironniere",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Si Tu Veut",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "three_generations_complete": true,
+    "sources": [
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/horses/pedigree/2579909/guinness-de-la-violle",
+        "access": "public search-index facts; direct page403",
+        "role": "identity and pedigree"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+        "access": "public search-index facts",
+        "role": "identity matched name/year/parents/current Stud PB ownership"
+      },
+      {
+        "database": "Hippomundo",
+        "url": "https://www.hippomundo.com/en/pedigree/performance/51123-canturano-i",
+        "role": "ancestor or related mare pedigree; not exact animal profile"
+      },
+      {
+        "database": "StudPB old",
+        "url": "https://studpb.com.br/nome-do-animal-06/",
+        "role": "legacy comparison source, retained original source snapshots"
+      },
+      {
+        "database": "HorseTelex",
+        "url": "https://horsetelex.com/horses/family/2643872",
+        "role": "maternal line Madam Ess > Hella de Subrevil > Si Tu Veut"
+      }
+    ],
+    "searches": {
+      "HorseTelex": "Exact animal record identified",
+      "Hippomundo": "searched exact name and spelling variants; no exact direct profile discovered; official relative/ancestor records corroborate relevant branches"
+    },
+    "differences": [],
+    "limitations": [
+      "Hippomundo exact profile unavailable in public search; not claiming both databases independently verified exact identity.",
+      "No sport results, rankings, availability or ownership claims in legacy prose independently audited.",
+      "Full birth date retained only as old StudPB data where present."
+    ]
+  }
+]

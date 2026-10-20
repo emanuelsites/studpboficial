@@ -1,0 +1,81 @@
+{
+  "reviewedAt": "2026-10-19",
+  "audit": "genealogy-audit-2026-10-19.json",
+  "pending": [
+    {
+      "id": "wp-1569",
+      "name": "HPH Wind Tok",
+      "status": "conflict"
+    },
+    {
+      "id": "wp-1575",
+      "name": "Lika JT",
+      "status": "conflict"
+    },
+    {
+      "id": "wp-1056",
+      "name": "Lulu Way PB – Vendido",
+      "status": "partial"
+    },
+    {
+      "id": "wp-1050",
+      "name": "I’m Special Lulu PB",
+      "status": "partial"
+    },
+    {
+      "id": "wp-1047",
+      "name": "OH Sophia DC PB",
+      "status": "legacy"
+    },
+    {
+      "id": "wp-2990",
+      "name": "Quellentina PB",
+      "status": "partial"
+    },
+    {
+      "id": "wp-2982",
+      "name": "Bellobet PB",
+      "status": "partial"
+    },
+    {
+      "id": "wp-2972",
+      "name": "Baloubetino PB",
+      "status": "legacy"
+    },
+    {
+      "id": "wp-2789",
+      "name": "Uri Bello PB",
+      "status": "legacy"
+    },
+    {
+      "id": "wp-2784",
+      "name": "Senna Star PB",
+      "status": "partial"
+    },
+    {
+      "id": "wp-2776",
+      "name": "Embalou PB",
+      "status": "legacy"
+    },
+    {
+      "id": "wp-2757",
+      "name": "Baloutage PB",
+      "status": "legacy"
+    },
+    {
+      "id": "wp-2750",
+      "name": "Balou Blue PB",
+      "status": "partial"
+    },
+    {
+      "id": "wp-2733",
+      "name": "Che Confusione PB",
+      "status": "legacy"
+    },
+    {
+      "id": "wp-2730",
+      "name": "Chaloubet PB",
+      "status": "legacy"
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+{
+  "reviewedAt": "2026-10-19",
+  "scope": "Genealogy and identity only; public accessible official records and archived StudPB fallback. No paywall/access bypass. Hippomundo generic sample performance chart excluded.",
+  "animals": [
+    {
+      "id": "wp-2194",
+      "title": "Clarissa de Will Z",
+      "status": "verified",
+      "verifiedFields": {
+        "father": "Clarimo ASK",
+        "mother": "Caretina de Will",
+        "maternalGrandfather": "Casall",
+        "year": "2022"
+      },
+      "pedigree": {
+        "name": "Clarissa de Will Z",
+        "sex": "female",
+        "father": {
+          "name": "Clarimo ASK",
+          "sex": "male",
+          "father": {
+            "name": "Clearway",
+            "sex": "male",
+            "father": {
+              "name": "Capitol I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Wodka II",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Wisma",
+            "sex": "female",
+            "father": {
+              "name": "Caletto II",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Prisma",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Caretina de Will",
+          "sex": "female",
+          "father": {
+            "name": "Casall",
+            "sex": "male",
+            "father": {
+              "name": "Caretino",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Kira XVII",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Tonia I",
+            "sex": "female",
+            "father": {
+              "name": "Cassini I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Naomi XXXII",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.hippomundo.com/nl/pedigree/performance/1237788-clarissa-de-will-z",
+      "primaryEvidenceRef": "turn56view0",
+      "secondarySource": "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+      "legacySource": "https://studpb.com.br/clarissa-de-will-z-2/",
+      "conflicts": [],
+      "factsExtract": {
+        "generation1": [
+          "Clarimo ASK",
+          "Caretina de Will"
+        ],
+        "generation2": [
+          "Clearway",
+          "Wisma",
+          "Casall",
+          "Tonia I"
+        ],
+        "generation3": [
+          "Capitol I",
+          "Wodka II",
+          "Caletto II",
+          "Prisma",
+          "Caretino",
+          "Kira XVII",
+          "Cassini I",
+          "Naomi XXXII"
+        ]
+      },
+      "secondaryEvidenceRef": "turn67search4",
+      "secondaryStatus": "Owner list confirms2022 Clarimo×Caretina; individual record2321399 inaccessible. CasallASK alias shortenedCasall per official."
+    },
+    {
+      "id": "wp-1593",
+      "title": "Quanjie du Terme",
+      "status": "verified",
+      "verifiedFields": {
+        "father": "Sandro Song",
+        "mother": "Kaelle du Terme",
+        "maternalGrandfather": "Le Tot de Semilly",
+        "year": "2004"
+      },
+      "pedigree": {
+        "name": "Quanjie du Terme",
+        "sex": "female",
+        "father": {
+          "name": "Sandro Song",
+          "sex": "male",
+          "father": {
+            "name": "Sandro",
+            "sex": "male",
+            "father": {
+              "name": "Sacramento Song xx",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Duerte",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Antenne II",
+            "sex": "female",
+            "father": {
+              "name": "Gepard",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Antenne",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Kaelle du Terme",
+          "sex": "female",
+          "father": {
+            "name": "Le Tot de Semilly",
+            "sex": "male",
+            "father": {
+              "name": "Grand Veneur",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Venue du Tot",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Sophie du Chateau",
+            "sex": "female",
+            "father": {
+              "name": "Galoubet A",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Javotte D",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.horsetelex.com/horses/pedigree/1756507/quanjie-du-terme",
+      "primaryEvidenceRef": "turn56view1",
+      "secondarySource": "https://www.hippomundo.com/en/auction/records/1412-online-23-24-04-2024",
+      "legacySource": "https://studpb.com.br/quanjie-du-terme/",
+      "conflicts": [
+        {
+          "field": "pedigree.father.father.name",
+          "legacy": "Sandro Z",
+          "verified": "Sandro"
+        },
+        {
+          "field": "pedigree.father.father.mother.name",
+          "legacy": "Dürte",
+          "verified": "Duerte"
+        }
+      ],
+      "factsExtract": {
+        "generation1": [
+          "Sandro Song",
+          "Kaelle du Terme"
+        ],
+        "generation2": [
+          "Sandro",
+          "Antenne II",
+          "Le Tot de Semilly",
+          "Sophie du Chateau"
+        ],
+        "generation3": [
+          "Sacramento Song xx",
+          "Duerte",
+          "Gepard",
+          "Antenne",
+          "Grand Veneur",
+          "Venue du Tot",
+          "Galoubet A",
+          "Javotte D"
+        ]
+      },
+      "secondaryEvidenceRef": "turn78search1",
+      "secondaryStatus": "Auction record confirms mare2004 SF bySandroSong×LeTot; individual Hippomundo703171 inaccessible",
+      "ueln": "25000104407757J"
+    },
+    {
+      "id": "wp-1585",
+      "title": "Mademoiselle de Muze",
+      "status": "verified",
+      "verifiedFields": {
+        "father": "Elvis ter Putte",
+        "mother": "Fragance de Chalus",
+        "maternalGrandfather": "Jalisco B",
+        "year": "2012"
+      },
+      "pedigree": {
+        "name": "Mademoiselle de Muze",
+        "sex": "female",
+        "father": {
+          "name": "Elvis ter Putte",
+          "sex": "male",
+          "father": {
+            "name": "Diamant de Semilly",
+            "sex": "male",
+            "father": {
+              "name": "Le Tot de Semilly",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Venise des Cresles",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Ukase ter Putte",
+            "sex": "female",
+            "father": {
+              "name": "Darco",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Quinette ter Putte",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Fragance de Chalus",
+          "sex": "female",
+          "father": {
+            "name": "Jalisco B",
+            "sex": "male",
+            "father": {
+              "name": "Almé Z",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Tanagra",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Nifrane",
+            "sex": "female",
+            "father": {
+              "name": "Fury de la Cense",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Ifrane",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.hippomundo.com/en/pedigree/performance/384535-mademoiselle-de-muze",
+      "primaryEvidenceRef": "turn32view6",
+      "secondarySource": "https://www.horsetelex.com/horses/pedigree/1655131/mademoiselle-de-muze",
+      "legacySource": "https://studpb.com.br/mademoiselle-de-muze/",
+      "conflicts": [],
+      "factsExtract": {
+        "generation1": [
+          "Elvis ter Putte",
+          "Fragance de Chalus"
+        ],
+        "generation2": [
+          "Diamant de Semilly",
+          "Ukase ter Putte",
+          "Jalisco B",
+          "Nifrane"
+        ],
+        "generation3": [
+          "Le Tot de Semilly",
+          "Venise des Cresles",
+          "Darco",
+          "Quinette ter Putte",
+          "Almé Z",
+          "Tanagra",
+          "Fury de la Cense",
+          "Ifrane"
+        ]
+      },
+      "secondaryStatus": "Official search result turn67search3 confirms identity mother; individual HTTP403, ownerlist confirms sire/dam/year",
+      "secondaryEvidenceRef": "turn67search3"
+    },
+    {
+      "id": "wp-1571",
+      "title": "Lady Scarlett JMen",
+      "status": "verified",
+      "verifiedFields": {
+        "father": "Larimar",
+        "mother": "Vabien S",
+        "maternalGrandfather": "Casall",
+        "year": "2012"
+      },
+      "pedigree": {
+        "name": "Lady Scarlett JMen",
+        "sex": "female",
+        "father": {
+          "name": "Larimar",
+          "sex": "male",
+          "father": {
+            "name": "Lavall II",
+            "sex": "male",
+            "father": {
+              "name": "Landgraf I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Madam",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Elastic Dream",
+            "sex": "female",
+            "father": {
+              "name": "Lord",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Hanka",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Vabien S",
+          "sex": "female",
+          "father": {
+            "name": "Casall",
+            "sex": "male",
+            "father": {
+              "name": "Caretino",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Kira XVII",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Gera IV",
+            "sex": "female",
+            "father": {
+              "name": "Carthago",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Ziska II",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.horsetelex.com/horses/pedigree/2584463/lady-scarlett-jmen",
+      "primaryEvidenceRef": "turn63view0",
+      "secondarySource": "https://www.hippomundo.com/en/pedigree/performance/1684879-lady-scarlett-jmen_",
+      "legacySource": "https://studpb.com.br/lady-scarlett-jmen-copy/",
+      "conflicts": [
+        {
+          "field": "mother",
+          "legacy": "Vabien’s / Vabien's",
+          "verified": "Vabien S"
+        }
+      ],
+      "factsExtract": {
+        "generation1": [
+          "Larimar",
+          "Vabien S"
+        ],
+        "generation2": [
+          "Lavall II",
+          "Elastic Dream",
+          "Casall",
+          "Gera IV"
+        ],
+        "generation3": [
+          "Landgraf I",
+          "Madam",
+          "Lord",
+          "Hanka",
+          "Caretino",
+          "Kira XVII",
+          "Carthago",
+          "Ziska II"
+        ]
+      },
+      "ueln": "276421000510812",
+      "secondaryStatus": "Linked originalStud record1684879 inaccessible; searches no exact result. HorseTelex mare2012 owned FranciscoPinheiroNeto confirms identity."
+    },
+    {
+      "id": "wp-1569",
+      "title": "HPH Wind Tok",
+      "status": "conflict",
+      "verifiedFields": {
+        "father": "Carrera VDL",
+        "mother": "Nuilina van de Wolfsakker Z",
+        "maternalGrandfather": "Nabab de Reve",
+        "year": "2017"
+      },
+      "pedigree": {
+        "name": "HPH Wind Tok",
+        "sex": "female",
+        "father": {
+          "name": "Carrera VDL",
+          "sex": "male",
+          "father": {
+            "name": "VDL Cardento",
+            "sex": "male",
+            "father": {
+              "name": "Capitol I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "B-Estelle",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Vantiels Esprit",
+            "sex": "female",
+            "father": {
+              "name": "Baloubet du Rouet",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Esprit",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Nuilina van de Wolfsakker Z",
+          "sex": "female",
+          "father": {
+            "name": "Nabab de Reve",
+            "sex": "male",
+            "father": {
+              "name": "Quidam de Revel",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Melodie en Fa",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Quilina V’t Plutoniahof",
+            "sex": "female",
+            "father": {
+              "name": "Chin Chin",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Gravin vd Bremheuvel",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.hippomundo.com/nl/pedigree/performance/1682884-wind-tok",
+      "primaryEvidenceRef": "turn51view1",
+      "secondarySource": "https://www.horsetelex.com/horses/pedigree/2172310/hph-wind-tok",
+      "legacySource": "https://studpb.com.br/hph-wind-tok-copy/",
+      "conflicts": [
+        {
+          "field": "year",
+          "hippomundo": "2017",
+          "horsetelex": "2016",
+          "oldStudBody": "2016",
+          "oldStudBirth": "02/02/2017",
+          "action": "Keep2017 as current Hippomundo supported year; show birth date pending confirmation, do not claim two source agreement."
+        },
+        {
+          "field": "father",
+          "legacy": "Carrera VDL1",
+          "verified": "Carrera VDL"
+        },
+        {
+          "field": "mother",
+          "legacy": "Nulina van de Wolfsakker Z",
+          "verified": "Nuilina van de Wolfsakker Z"
+        }
+      ],
+      "factsExtract": {
+        "generation1": [
+          "Carrera VDL",
+          "Nuilina van de Wolfsakker Z"
+        ],
+        "generation2": [
+          "VDL Cardento",
+          "Vantiels Esprit",
+          "Nabab de Reve",
+          "Quilina V’t Plutoniahof"
+        ],
+        "generation3": [
+          "Capitol I",
+          "B-Estelle",
+          "Baloubet du Rouet",
+          "Esprit",
+          "Quidam de Revel",
+          "Melodie en Fa",
+          "Chin Chin",
+          "Gravin vd Bremheuvel"
+        ]
+      },
+      "secondaryEvidenceRef": "turn67search12",
+      "secondaryStatus": "HorseTelex dam progeny list711862 explicitly HPHWindTok2016×CarreraVDL. Individual page HTTP403. Strong identity pedigree agreement but year conflict."
+    },
+    {
+      "id": "wp-1563",
+      "title": "Bless das Umburanas",
+      "status": "verified",
+      "verifiedFields": {
+        "father": "Berlin",
+        "mother": "ABC Liberia 17",
+        "maternalGrandfather": "Larini",
+        "year": "2012"
+      },
+      "pedigree": {
+        "name": "Bless das Umburanas",
+        "sex": "female",
+        "father": {
+          "name": "Berlin",
+          "sex": "male",
+          "father": {
+            "name": "Cassini I",
+            "sex": "male",
+            "father": {
+              "name": "Capitol I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Wisma",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Estia",
+            "sex": "female",
+            "father": {
+              "name": "Caretino",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Vardana",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "ABC Liberia 17",
+          "sex": "female",
+          "father": {
+            "name": "Larini",
+            "sex": "male",
+            "father": {
+              "name": "Landgraf I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Chaedra",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Isis VII",
+            "sex": "female",
+            "father": {
+              "name": "Capitol I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Chanell I",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.hippomundo.com/fr/pedigree/performance/629494-bless-das-umburanas",
+      "primaryEvidenceRef": "turn51view0",
+      "secondarySource": "https://www.horsetelex.com/horses/pedigree/2123288/bless-das-umburanas",
+      "legacySource": "https://studpb.com.br/bless-das-umburanas-copy/",
+      "conflicts": [
+        {
+          "field": "mother",
+          "legacy": "Liberia",
+          "verified": "ABC Liberia 17"
+        }
+      ],
+      "factsExtract": {
+        "generation1": [
+          "Berlin",
+          "ABC Liberia 17"
+        ],
+        "generation2": [
+          "Cassini I",
+          "Estia",
+          "Larini",
+          "Isis VII"
+        ],
+        "generation3": [
+          "Capitol I",
+          "Wisma",
+          "Caretino",
+          "Vardana",
+          "Landgraf I",
+          "Chaedra",
+          "Capitol I",
+          "Chanell I"
+        ]
+      },
+      "secondaryEvidenceRef": "turn67search2",
+      "secondaryStatus": "Exact HT searchresult confirms mare2012 and motherABC Liberia17, individual pageHTTP403. FatherBerlin official ownerprofile."
+    },
+    {
+      "id": "wp-1560",
+      "title": "Balance Z",
+      "status": "verified",
+      "verifiedFields": {
+        "father": "Balou du Rouet",
+        "mother": "Dahpne",
+        "maternalGrandfather": "Stakkato",
+        "year": "2014"
+      },
+      "pedigree": {
+        "name": "Balance Z",
+        "sex": "female",
+        "father": {
+          "name": "Balou du Rouet",
+          "sex": "male",
+          "father": {
+            "name": "Baloubet du Rouet",
+            "sex": "male",
+            "father": {
+              "name": "Galoubet A",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Mesange du Rouet",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Georgia",
+            "sex": "female",
+            "father": {
+              "name": "Continue",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Georgette II",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Dahpne",
+          "sex": "female",
+          "father": {
+            "name": "Stakkato",
+            "sex": "male",
+            "father": {
+              "name": "Spartan",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Pia",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Wildemeid",
+            "sex": "female",
+            "father": {
+              "name": "Chin Chin",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Harika",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      },
+      "pedigreeDepth": 3,
+      "primarySource": "https://www.horsetelex.com/horses/pedigree/1662973/balance-z",
+      "primaryEvidenceRef": "turn63view1",
+      "secondarySource": "https://www.hippomundo.com/en/pedigree/performance/580568-balance-z_",
+      "legacySource": "https://studpb.com.br/balance-z/",
+      "conflicts": [
+        {
+          "field": "mother",
+          "legacy": "Daphne",
+          "verified": "Dahpne"
+        }
+      ],
+      "factsExtract": {
+        "generation1": [
+          "Balou du Rouet",
+          "Dahpne"
+        ],
+        "generation2": [
+          "Baloubet du Rouet",
+          "Georgia",
+          "Stakkato",
+          "Wildemeid"
+        ],
+        "generation3": [
+          "Galoubet A",
+          "Mesange du Rouet",
+          "Continue",
+          "Georgette II",
+          "Spartan",
+          "Pia",
+          "Chin Chin",
+          "Harika"
+        ]
+      },
+      "secondaryStatus": "Hippomundo linked record580568 inaccessible; official familysearch snippets confirm BalanceZ byBalouduRouet but not fullindividual pedigree.",
+      "ueln": "056015Z55565314",
+      "height": "1.80m"
+    },
+    {
+      "id": "wp-1575",
+      "title": "Lika JT",
+      "status": "conflict_alias",
+      "primarySource": "https://www.hippomundo.com/en/pedigree/performance/1692376-lika-jt-pb",
+      "secondarySource": "https://www.horsetelex.com/horses/pedigree/2586787/lika-jt-pb",
+      "secondaryEvidenceRef": "turn60search2",
+      "verifiedFields": {
+        "year": "2017",
+        "mother": "Estrela Dalva JT"
+      },
+      "conflicts": [
+        {
+          "field": "sireAlias",
+          "hippomundo": "MSC Willen (Willem)",
+          "horsetelex": "MCIA WILLEN",
+          "action": "Retain verified Hippomundo sire name; record alias divergence without replacing sire relationship."
+        },
+        {
+          "field": "maternalGrandfatherAlias",
+          "hippomundo": "New Quidam",
+          "horsetelex": "NEW QUIDAM I",
+          "action": "Record alias; no change to relationship."
+        }
+      ],
+      "secondaryStatus": "HorseTelex exactsearch result2586787, ownerprofile confirmsMCIAWillen×EstrelaDalvaJT2017; individual403; do not overwrite complete Hippomundo tree."
+    }
+  ],
+  "crossingOnlyMothers": [
+    {
+      "name": "Bhetania JMen",
+      "entryIds": [
+        "wp-2883"
+      ],
+      "status": "verified_single_primary",
+      "verifiedFields": {
+        "year": "2005",
+        "father": "Baloubet du Rouet",
+        "mother": "Plus Vite JMen",
+        "maternalGrandfather": "Polydor"
+      },
+      "primarySource": "https://www.horsetelex.com/horses/pedigree/2091408/bhetania-jmen",
+      "primaryEvidenceRef": "turn72search2",
+      "secondarySource": "https://www.hippomundo.com/en/pedigree/performance/636662-bhetania-jmen-ia_",
+      "secondaryStatus": "Original linkedrecord inaccessible. Hippomundo offspringParabellJmen637842 confirms Bhetania2005×Baloubet×PlusVite.",
+      "secondaryEvidenceRef": "turn72search1",
+      "pedigree": {
+        "name": "Bhetania JMen",
+        "sex": "female",
+        "father": {
+          "name": "Baloubet du Rouet",
+          "sex": "male",
+          "father": {
+            "name": "Galoubet A",
+            "sex": "male",
+            "father": {
+              "name": "Almé",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Viti",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Mesange du Rouet",
+            "sex": "female",
+            "father": {
+              "name": "Starter",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Badine",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        },
+        "mother": {
+          "name": "Plus Vite JMen",
+          "sex": "female",
+          "father": {
+            "name": "Polydor",
+            "sex": "male",
+            "father": {
+              "name": "Pilatus",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Fata Morgana",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          },
+          "mother": {
+            "name": "Coradina",
+            "sex": "female",
+            "father": {
+              "name": "Corrado I",
+              "sex": "male",
+              "father": null,
+              "mother": null
+            },
+            "mother": {
+              "name": "Paris",
+              "sex": "female",
+              "father": null,
+              "mother": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "EC Naja",
+      "entryIds": [
+        "wp-768",
+        "wp-748"
+      ],
+      "status": "legacy_fallback",
+      "primarySource": "https://studpb.com.br/nome-do-embriao-03/",
+      "secondarySource": "https://studpb.com.br/nome-do-embriao-02/",
+      "hippomundoSource": "https://www.hippomundo.com/en/pedigree/performance/1681201-ec-naja_",
+      "hippomundoStatus": "Linked record inaccessible; named official riderJuliaPassamani134807 search mentions ECNaja but gives no pedigree.",
+      "horsetelexStatus": "Exact name and name+Malito search no matched public record; oldlinks point homepage only.",
+      "verifiedFields": {},
+      "legacyFields": {
+        "father": "Malito de Reve",
+        "mother": "EC Coral",
+        "maternalGrandfather": "Cobra"
+      },
+      "pedigree": {
+        "name": "EC Naja",
+        "sex": "female",
+        "father": {
+          "name": "Malito de Reve",
+          "sex": "male",
+          "father": {
+            "name": "Cumano",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Dira Courcelle",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "EC Coral",
+          "sex": "female",
+          "father": {
+            "name": "Cobra",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Regina Metodo",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "pedigreeDepth": 2,
+      "conflicts": [
+        {
+          "field": "currentCrossingMaternalGrandfather",
+          "wp-768": "Cornet Obolensky",
+          "wp-748": "Diamant de Semilly",
+          "action": "Those are fathers of embryo siresCommeilFaut/Emerald, NOT sire ofEC Naja. Archived originaltree placesMalitodeReve asECNaja sire. UseECNaja maternal lineage only with source labelfallback."
+        }
+      ]
+    }
+  ]
+}

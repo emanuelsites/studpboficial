@@ -1,0 +1,572 @@
+[
+  {
+    "id": "wp-1056",
+    "name": "Lulu Way PB – Vendido",
+    "checkedAt": "2026-10-19",
+    "checks": {
+      "Hippomundo": {
+        "queries": [
+          "site:hippomundo.com \"Lulu Way PB\""
+        ],
+        "status": "family_index_match_only",
+        "url": "https://www.hippomundo.com/nl/pedigree/performance/908692-tilly-van-de-dorpshoeve",
+        "note": "Indexed family snippet names both foals, year2024 and respective sires; opened basic pedigree page does not expose this family subsection. Do not label three generations independently verified."
+      },
+      "HorseTelex": {
+        "queries": [
+          "site:horsetelex.com \"Lulu Way PB\""
+        ],
+        "status": "owner_profile_match"
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+      "https://horsetelex.com/horses/family/1634375"
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/nome-do-potro-06/",
+      "snapshot": "migration/original-details/1056.html.txt",
+      "checked": true
+    },
+    "verifiedFields": {
+      "year": "2024",
+      "father": "Highway TN",
+      "mother": "Ludona van de Dorpshoeve",
+      "maternalGrandfather": "Erco van 't Roosakker",
+      "studbook": "BH"
+    },
+    "corrections": [
+      {
+        "field": "mother spelling",
+        "from": "Ludona Van deDorpshoeve",
+        "to": "Ludona van de Dorpshoeve",
+        "type": "normalization"
+      },
+      {
+        "field": "maternalGrandfather spelling",
+        "from": "Erco VanRoosakker",
+        "to": "Erco van 't Roosakker",
+        "type": "normalization"
+      }
+    ],
+    "pedigree": null,
+    "fullThreeGenerationsVerified": false,
+    "status": "parents_verified_ancestors_fallback",
+    "notes": [
+      "Birth day/month not independently verified. Preserve original availability, not inferred from external ownership.",
+      "Retain original three-generation tree as StudPB fallback, not as fully independently verified."
+    ]
+  },
+  {
+    "id": "wp-1050",
+    "name": "I’m Special Lulu PB",
+    "checkedAt": "2026-10-19",
+    "checks": {
+      "Hippomundo": {
+        "queries": [
+          "site:hippomundo.com \"I’m Special Lulu PB\""
+        ],
+        "status": "family_index_match_only",
+        "url": "https://www.hippomundo.com/nl/pedigree/performance/908692-tilly-van-de-dorpshoeve",
+        "note": "Indexed family snippet names both foals, year2024 and respective sires; opened basic pedigree page does not expose this family subsection. Do not label three generations independently verified."
+      },
+      "HorseTelex": {
+        "queries": [
+          "site:horsetelex.com \"I’m Special Lulu PB\""
+        ],
+        "status": "owner_profile_match"
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+      "https://horsetelex.com/horses/family/1634375"
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/potro-im-special-lulu-pb/",
+      "snapshot": "migration/original-details/1050.html.txt",
+      "checked": true
+    },
+    "verifiedFields": {
+      "year": "2024",
+      "father": "I'm Special de Muze",
+      "mother": "Ludona van de Dorpshoeve",
+      "maternalGrandfather": "Erco van 't Roosakker",
+      "studbook": "BH"
+    },
+    "corrections": [
+      {
+        "field": "mother spelling",
+        "from": "Ludona Van de Dorpshoeve",
+        "to": "Ludona van de Dorpshoeve",
+        "type": "normalization"
+      },
+      {
+        "field": "maternalGrandfather spelling",
+        "from": "Erco Van Roosakker",
+        "to": "Erco van 't Roosakker",
+        "type": "normalization"
+      }
+    ],
+    "pedigree": null,
+    "fullThreeGenerationsVerified": false,
+    "status": "parents_verified_ancestors_fallback",
+    "notes": [
+      "Birth day/month not independently verified. Preserve original availability, not inferred from external ownership.",
+      "Retain original three-generation tree as StudPB fallback, not as fully independently verified."
+    ]
+  },
+  {
+    "id": "wp-1047",
+    "name": "OH Sophia DC PB",
+    "checkedAt": "2026-10-19",
+    "checks": {
+      "Hippomundo": {
+        "queries": [
+          "site:hippomundo.com \"OH Sophia DC PB\""
+        ],
+        "status": "no_direct_match"
+      },
+      "HorseTelex": {
+        "queries": [
+          "site:horsetelex.com \"OH Sophia DC PB\""
+        ],
+        "status": "no_match"
+      }
+    },
+    "sourceUrls": [
+      "https://studpb.com.br/nome-do-potro-03/"
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/nome-do-potro-03/",
+      "snapshot": "migration/original-details/1047.html.txt",
+      "checked": true
+    },
+    "verifiedFields": {
+      "year": "2024",
+      "father": "Halifax van't Kluizebos",
+      "mother": "Stud PB Quanjie du Terme",
+      "maternalGrandfather": "Sandro Song"
+    },
+    "corrections": [],
+    "pedigree": null,
+    "fullThreeGenerationsVerified": false,
+    "status": "studpb_fallback",
+    "notes": [
+      "No exact individual match located in either external provider. Keep original pedigree as fallback explicitly labeled StudPB, not externally verified."
+    ]
+  },
+  {
+    "id": "wp-1044",
+    "name": "I’Oxygene D’Elphen Z",
+    "checkedAt": "2026-10-19",
+    "checks": {
+      "Hippomundo": {
+        "queries": [
+          "site:hippomundo.com \"I’Oxygene D’Elphen Z\""
+        ],
+        "status": "no_direct_match"
+      },
+      "HorseTelex": {
+        "queries": [
+          "site:horsetelex.com \"I’Oxygene D’Elphen Z\""
+        ],
+        "status": "direct_match"
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+      "https://www.horsetelex.com/horses/pedigree/2587352/i-oxygene-d-elphen-z"
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/nome-do-potro-02/",
+      "snapshot": "migration/original-details/1044.html.txt",
+      "checked": true
+    },
+    "verifiedFields": {
+      "registeredName": "I'Oxygene d'Elphen Z",
+      "year": "2024",
+      "father": "Invictus d'Elphen",
+      "mother": "Illustration d'Elphen",
+      "maternalGrandfather": "Casall",
+      "studbook": "ZANG",
+      "sex": "Fêmea"
+    },
+    "corrections": [
+      {
+        "field": "pedigree.father.mother.father.name",
+        "from": "Anarc d'Elphen",
+        "to": "Arnac d'Elphen",
+        "type": "spelling"
+      },
+      {
+        "field": "maternalGrandfather",
+        "from": "Casall ASK",
+        "to": "Casall",
+        "type": "registered_alias_normalization"
+      }
+    ],
+    "pedigree": {
+      "name": "I'Oxygene d'Elphen Z",
+      "sex": "female",
+      "father": {
+        "name": "Invictus d'Elphen",
+        "sex": "male",
+        "father": {
+          "name": "Diamant de Semilly",
+          "sex": "male",
+          "father": {
+            "name": "Le Tot de Semilly",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Venise des Cresles",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Dior d'Elphen",
+          "sex": "female",
+          "father": {
+            "name": "Arnac d'Elphen",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Aquarelle d'Elphen",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Illustration d'Elphen",
+        "sex": "female",
+        "father": {
+          "name": "Casall",
+          "sex": "male",
+          "father": {
+            "name": "Caretino",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Kira XVII",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "DBM Zuhara",
+          "sex": "female",
+          "father": {
+            "name": "Zumanji Decor",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Naomi Nefertari",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "fullThreeGenerationsVerified": true,
+    "status": "horsetelex_verified"
+  },
+  {
+    "id": "wp-1039",
+    "name": "Paris C Z",
+    "checkedAt": "2026-10-19",
+    "checks": {
+      "Hippomundo": {
+        "queries": [
+          "site:hippomundo.com \"Paris C Z\""
+        ],
+        "status": "auction_index_match",
+        "url": "https://www.hippomundo.com/nl/auction/lot/69059-paris-c-z_/black",
+        "note": "Auction search result confirms Pegase van t Ruytershof × Clarence C (maternal grandsire shorthand). Full auction page inaccessible. HorseTelex full pedigree inspected."
+      },
+      "HorseTelex": {
+        "queries": [
+          "site:horsetelex.com \"Paris C Z\""
+        ],
+        "status": "direct_match"
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+      "https://www.horsetelex.com/horses/pedigree/2630212/paris-c-z"
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/nome-do-potro-01-2/",
+      "snapshot": "migration/original-details/1039.html.txt",
+      "checked": true
+    },
+    "verifiedFields": {
+      "year": "2024",
+      "father": "Pegase van 't Ruytershof",
+      "mother": "Clarestia C",
+      "maternalGrandfather": "Clarence I",
+      "studbook": "ZANG",
+      "registration": "056015Z56572524",
+      "sex": "Fêmea"
+    },
+    "corrections": [
+      {
+        "field": "mother",
+        "from": "A-Clarestia",
+        "to": "Clarestia C",
+        "type": "registered_name"
+      },
+      {
+        "field": "maternalGrandfather",
+        "from": "Clarence C",
+        "to": "Clarence I",
+        "type": "registered_name"
+      },
+      {
+        "field": "pedigree.father.father.name",
+        "from": "Comme il Fault",
+        "to": "Comme il Faut",
+        "type": "spelling"
+      },
+      {
+        "field": "pedigree.father.mother.father.name",
+        "from": "Cartani 4",
+        "to": "Cartani",
+        "type": "registered_name"
+      }
+    ],
+    "pedigree": {
+      "name": "Paris C Z",
+      "sex": "female",
+      "father": {
+        "name": "Pegase van 't Ruytershof",
+        "sex": "male",
+        "father": {
+          "name": "Comme il Faut",
+          "sex": "male",
+          "father": {
+            "name": "Cornet Obolensky",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Ratina Z",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Gianthina van 't Ruytershof",
+          "sex": "female",
+          "father": {
+            "name": "Cartani",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Diamanthina van 't Ruytershof",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Clarestia C",
+        "sex": "female",
+        "father": {
+          "name": "Clarence I",
+          "sex": "male",
+          "father": {
+            "name": "Carano",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Kira XVII",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Estia",
+          "sex": "female",
+          "father": {
+            "name": "Caretino",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Vardana",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "fullThreeGenerationsVerified": true,
+    "status": "horsetelex_verified"
+  },
+  {
+    "id": "wp-391",
+    "name": "Unica Blue K",
+    "checkedAt": "2026-10-19",
+    "checks": {
+      "Hippomundo": {
+        "queries": [
+          "site:hippomundo.com \"Unica Blue K\""
+        ],
+        "status": "no_direct_match"
+      },
+      "HorseTelex": {
+        "queries": [
+          "site:horsetelex.com \"Unica Blue K\""
+        ],
+        "status": "direct_match",
+        "note": "Full pedigree returned in search result; direct open unavailable. Parents also independently present in official owner profile."
+      }
+    },
+    "sourceUrls": [
+      "https://www.horsetelex.com/sponsors/profile/4725/stud-pb",
+      "https://horsetelex.com/horses/pedigree/2576593/unica-blue-k"
+    ],
+    "oldStudPB": {
+      "url": "https://studpb.com.br/nome-do-potro-01/",
+      "snapshot": "migration/original-details/391.html.txt",
+      "checked": true
+    },
+    "verifiedFields": {
+      "year": "2024",
+      "father": "Baloutaire PS",
+      "mother": "Promisse K",
+      "maternalGrandfather": "El Barone 111 Z",
+      "studbook": "KWPN",
+      "registration": "528003202400859",
+      "sex": "Fêmea"
+    },
+    "corrections": [
+      {
+        "field": "maternalGrandfather",
+        "from": "Clarence C",
+        "to": "El Barone 111 Z",
+        "type": "wrong_ancestor"
+      },
+      {
+        "field": "pedigree.mother.mother.name",
+        "from": "Estia",
+        "to": "Eyla R",
+        "type": "wrong_ancestor"
+      },
+      {
+        "field": "pedigree.mother.father.mother.name",
+        "from": "Naktibro",
+        "to": "Naktibro",
+        "type": "unchanged"
+      },
+      {
+        "field": "pedigree.mother.mother.father.name",
+        "from": "Diabeau",
+        "to": "Diabeau van de Heffinck",
+        "type": "registered_name"
+      }
+    ],
+    "pedigree": {
+      "name": "Unica Blue K",
+      "sex": "female",
+      "father": {
+        "name": "Baloutaire PS",
+        "sex": "male",
+        "father": {
+          "name": "Balou du Rouet",
+          "sex": "male",
+          "father": {
+            "name": "Baloubet du Rouet",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Georgia",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Chataire",
+          "sex": "female",
+          "father": {
+            "name": "Chacco-Blue",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Nema",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      },
+      "mother": {
+        "name": "Promisse K",
+        "sex": "female",
+        "father": {
+          "name": "El Barone 111 Z",
+          "sex": "male",
+          "father": {
+            "name": "Emerald van 't Ruytershof",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Naktibro",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        },
+        "mother": {
+          "name": "Eyla R",
+          "sex": "female",
+          "father": {
+            "name": "Diabeau van de Heffinck",
+            "sex": "male",
+            "father": null,
+            "mother": null
+          },
+          "mother": {
+            "name": "Weyla R",
+            "sex": "female",
+            "father": null,
+            "mother": null
+          }
+        }
+      }
+    },
+    "fullThreeGenerationsVerified": true,
+    "status": "horsetelex_verified_search_content"
+  }
+]

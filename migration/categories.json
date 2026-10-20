@@ -1,0 +1,452 @@
+[
+  {
+    "id": 7,
+    "count": 64,
+    "description": "",
+    "link": "https://studpb.com.br/category/animais/",
+    "name": "Animais",
+    "slug": "animais",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/7",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 4,
+    "description": "Your blog category",
+    "link": "https://studpb.com.br/category/blog/",
+    "name": "Blog",
+    "slug": "blog",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "count": 26,
+    "description": "",
+    "link": "https://studpb.com.br/category/embrioes/",
+    "name": "Embriões",
+    "slug": "embrioes",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/11",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=11"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "count": 7,
+    "description": "",
+    "link": "https://studpb.com.br/category/embrioes/congelados/",
+    "name": "Embriões Congelados",
+    "slug": "congelados",
+    "taxonomy": "category",
+    "parent": 11,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/14",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/11"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=14"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 20,
+    "description": "",
+    "link": "https://studpb.com.br/category/embrioes/gestacoes/",
+    "name": "Gestações Disponíveis",
+    "slug": "gestacoes",
+    "taxonomy": "category",
+    "parent": 11,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/11"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "count": 7,
+    "description": "",
+    "link": "https://studpb.com.br/category/animais/esporte/",
+    "name": "PB Esporte",
+    "slug": "esporte",
+    "taxonomy": "category",
+    "parent": 7,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/10",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "count": 8,
+    "description": "",
+    "link": "https://studpb.com.br/category/animais/pb-futuras/",
+    "name": "PB Futuras",
+    "slug": "pb-futuras",
+    "taxonomy": "category",
+    "parent": 7,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/16",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "count": 10,
+    "description": "",
+    "link": "https://studpb.com.br/category/animais/pb-matriz/",
+    "name": "PB Matriz",
+    "slug": "pb-matriz",
+    "taxonomy": "category",
+    "parent": 7,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/9",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=9"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "count": 12,
+    "description": "",
+    "link": "https://studpb.com.br/category/animais/potros/",
+    "name": "Potros",
+    "slug": "potros",
+    "taxonomy": "category",
+    "parent": 7,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/8",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://studpb.com.br/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://studpb.com.br/wp-json/wp/v2/posts?categories=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

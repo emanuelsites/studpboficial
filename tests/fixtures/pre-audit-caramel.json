@@ -1,0 +1,91 @@
+{
+  "info": {
+    "genetics": "Cumano X Al Ain FBH - Le Tot de Semilly",
+    "year": "2024",
+    "legacy_ids": [
+      1504
+    ],
+    "availability": "consult",
+    "sex": "Fêmea",
+    "location": "São Paulo, Brasil",
+    "father": "Cumano",
+    "mother": "Al Ain FBH",
+    "maternalGrandfather": "Le Tot de Semilly"
+  },
+  "pedigree": {
+    "name": "Caramel 88 of Picobello",
+    "sex": "female",
+    "mother": {
+      "name": "Al Ain FBH",
+      "sex": "female",
+      "mother": {
+        "name": "Sophie du Chateau",
+        "sex": "female",
+        "mother": {
+          "name": "Javotte D",
+          "sex": "female",
+          "mother": null,
+          "father": null
+        },
+        "father": {
+          "name": "Galoubet A",
+          "sex": "male",
+          "mother": null,
+          "father": null
+        }
+      },
+      "father": {
+        "name": "Le Tot de Semilly",
+        "sex": "male",
+        "mother": {
+          "name": "Venue du Tot",
+          "sex": "female",
+          "mother": null,
+          "father": null
+        },
+        "father": {
+          "name": "Grand Veneur",
+          "sex": "male",
+          "mother": null,
+          "father": null
+        }
+      }
+    },
+    "father": {
+      "name": "Cumano",
+      "sex": "male",
+      "mother": {
+        "name": "Antenne II",
+        "sex": "female",
+        "mother": {
+          "name": "Antenne",
+          "sex": "female",
+          "mother": null,
+          "father": null
+        },
+        "father": {
+          "name": "Gepard",
+          "sex": "male",
+          "mother": null,
+          "father": null
+        }
+      },
+      "father": {
+        "name": "Sandro Z",
+        "sex": "male",
+        "mother": {
+          "name": "Dürte",
+          "sex": "female",
+          "mother": null,
+          "father": null
+        },
+        "father": {
+          "name": "Sacramento Song",
+          "sex": "male",
+          "mother": null,
+          "father": null
+        }
+      }
+    }
+  }
+}

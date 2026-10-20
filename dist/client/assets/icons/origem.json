@@ -1,0 +1,37 @@
+{
+  "embrioes": {
+    "source_name": "Feto equino curvado em posição fetal.png",
+    "asset": "/assets/icons/embrioes.png",
+    "sha256": "754c1d911250d83bafd0f86d7e2afddf5e3c02e84df07a1e15e952d0ca63256c"
+  },
+  "gestacoes": {
+    "source_name": "Cabeça de égua em perfil.png",
+    "asset": "/assets/icons/gestacoes.png",
+    "sha256": "2b6cc49441ffcce27aa319e1c6e569a0d3e415c837a2843a9ef4bbb3d6dc30ee"
+  },
+  "potros": {
+    "source_name": "Ícone de cabeça de potro.png",
+    "asset": "/assets/icons/potros.png",
+    "sha256": "80a83d14e5376afa3b2d155b553fb640e1b6740a5074853d30e144cec5694f8e"
+  },
+  "matrizes": {
+    "source_name": "Cabeça de égua em perfil elegante.png",
+    "asset": "/assets/icons/matrizes.png",
+    "sha256": "36be404142e7a6f670cc9ee22339c72180557c3fed5f263158f306f0d5594066"
+  },
+  "missao": {
+    "source_name": "Égua e potro com DNA(1).png",
+    "asset": "/assets/icons/missao.png",
+    "sha256": "b8cc7b3a87b62aea66d53a5eaa7c929205d3ecff3fe06f63ed33295d0bc856f0"
+  },
+  "visao": {
+    "source_name": "Cavalo e seta ascendente.png",
+    "asset": "/assets/icons/visao.png",
+    "sha256": "8e6d8c4d1826109035f9baba74fe25d6f742cdac457b7cd0dc3508f199fbd9cd"
+  },
+  "valores": {
+    "source_name": "Valores: mãos acolhem potro e coração.png",
+    "asset": "/assets/icons/valores.png",
+    "sha256": "ea0145176e13726f1c518507e757c61b5d0695409809d553aef5b001d2a5bf64"
+  }
+}
