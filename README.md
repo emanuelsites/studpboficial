@@ -49,7 +49,7 @@ Exemplo SQLite:
 sqlite3 studpb.sqlite < database/studpb.sql
 ```
 
-D1: criar/conectar o banco DB e importar `database/studpb.sql` pelo Wrangler ou pelo painel Cloudflare, sem reaplicar antes a migração que cria as mesmas tabelas. Para banco vazio provisionado pelo Sites, a migração é aplicada no deploy e a primeira leitura carrega os registros públicos de modo idempotente.
+D1 em produção: o UUID do banco deste projeto fica em `.openai/hosting.json`. No Cloudflare Workers Builds, configure o deploy command como `pnpm run deploy`: ele aplica apenas migrações pendentes de `drizzle/` ao D1 remoto e, em seguida, executa `wrangler deploy`. O primeiro acesso cria a carga pública de forma idempotente. Não importe `database/studpb.sql` sobre esse banco; esse dump completo é para restauração em um banco vazio.
 
 ## Instalação e execução
 
@@ -61,7 +61,7 @@ pnpm run build
 
 O build gera `dist/server/` e `dist/client/`. Para desenvolvimento portátil, `pnpm run dev`. Para simular D1 local, aplicar a migração seguindo `docs/INSTALACAO.md`. Dependências e helpers de build estão incluídos; `node_modules` não faz parte do ZIP.
 
-A publicação existente usa Sites e os bindings DB/BUCKET declarados em `.openai/hosting.json`. Esse arquivo mantém o projeto original. Não registrar um novo Site ou publicar em outro projeto sem revisar os identificadores.
+A publicação Workers usa os bindings DB/BUCKET declarados em `.openai/hosting.json`; o build falha de forma explícita se voltar a encontrar o UUID placeholder de D1. O ID de D1 não é segredo, mas é específico da conta Cloudflare; revise-o ao clonar o projeto para outra conta. O adapter de identidade ChatGPT funciona no Sites; em um Worker Cloudflare independente, configure e valide um gateway de identidade antes de abrir qualquer rota administrativa.
 
 ## Acesso interno
 
